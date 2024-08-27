@@ -1,2 +1,2 @@
 # klassagne.github.io
-Repo for ESIIL Summit
+Repo for personal portfolio
